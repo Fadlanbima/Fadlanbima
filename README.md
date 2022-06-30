@@ -1,4 +1,4 @@
-### Hi there 👋
+### Halo Semua 👋
 
 Perkenalkan nama saya **Fadlan Bima Hermawan**.\
 Saya seorang **Mahasiswa** di Prodi [Matematika](http://math.fst.uinjkt.ac.id/prodi/) UIN Syarif Hidayatullah Jakarta.\
