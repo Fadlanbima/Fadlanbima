@@ -1,9 +1,9 @@
-### Halo Semua 👋
+### Hi Everyone! 👋
 
-Perkenalkan nama saya **Fadlan Bima Hermawan**.\
-Saya seorang **Mahasiswa** di Prodi [Matematika](http://math.fst.uinjkt.ac.id/prodi/) UIN Syarif Hidayatullah Jakarta.\
-Saya juga salah seorang **Siswa** di Bangkit Academy 2022 by Google, GoTo, Traveloka.\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/fadlan-bima-hermawan-870617218/)ku ya.
+I'm **Fadlan Bima Hermawan**. you can call me **Bima**.\
+I'm a **College Student** Majoring in [Mathematics](http://math.fst.uinjkt.ac.id/prodi/) of Islamic State University Syarif Hidayatullah Jakarta.\
+I'm also a **Graduate** from Bangkit Academy 2022 by Google, GoTo, Traveloka.\
+If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/fadlan-bima-hermawan-870617218/) ya :).
  
 <p align="left">
 <a href="https://github.com/Fadlanbima">
